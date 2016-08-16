@@ -61,6 +61,85 @@ body {
   margin: auto;
 }
 
+<<<<<<< Updated upstream
+<<<<<<< HEAD
+header {
+  background-color: black;
+  border: 5px;
+  border-color: gray;
+  width: 100%;
+  height: 150px;
+  float:left;
+}
+
+.left{
+  background-color: lightgray;
+  border: 10px;
+  width: 60%;
+  height: 400px;
+  float: left;
+}
+
+.right{
+  background-color: yellow;
+  border: 10px;
+  width: 40%;
+  height: 400px;
+  float: left;
+}
+
+footer {
+    background-color: blue;
+    width: 100%;
+    height: 150px;
+    float: left;
+}
+
+=======
+>>>>>>> origin/master
+=======
+<<<<<<< Updated upstream
+=======
+header {
+  width:100%;
+  background-color: gray;
+  height: 100px;
+  margin-bottom: 2%;
+
+}
+
+
+.box1{
+  float left;
+  width:40%;
+  background-color: gray;
+  height: 200px;
+  margin: 0 2% 2% 0;
+
+}
+
+.box2{
+  float: left;
+  width:40%;
+  background-color: gray;
+  height: 200px;
+  margin: 0 0 2% 0;
+
+}
+
+.section2{
+
+
+}
+
+footer {
+  width:100%;
+  background-color: gray;
+  height: 50px;
+}
+
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
